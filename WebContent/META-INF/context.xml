@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiResourceLocking = "false" reloadable = "true" privileged = "false">
+	<ResourceLink 	name = "jdbc/sanctions_tx"
+					global = "jdbc/sanctions_tx"
+					type = "javax.sql.DataSource"/>
+</Context>

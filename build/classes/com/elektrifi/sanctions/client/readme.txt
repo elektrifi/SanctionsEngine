@@ -1,0 +1,1 @@
+Note, the test clients have been moved to a standalone Java app - SanctionsEngineClient.

@@ -1,0 +1,137 @@
+president
+vice president
+vice-president
+first minister
+prime minister
+commander
+cdr
+commander-in-chief
+contadora
+general
+brigadier
+brigadier-general
+lieutenant general
+lieutenant-general
+lieutenant
+lt. general
+captain
+colonel
+lieutenant colonel
+lieutenant-colonel
+major
+major general
+major-general
+admiral
+rear admiral
+vice admiral
+lieutenant
+reverend
+rev
+sir
+lord
+lady
+king
+govenor
+provincial govenor
+majesty
+deputy
+police commissioner
+deputy police commissioner
+director
+politburo
+doctor
+lt. col.
+secretary
+deputy secretary
+minister
+deputy minister
+deputy-minister
+chairman
+central committee member
+senior committee member
+attorney
+attorney-general
+chief
+chief of staff
+chief-of-staff
+deputy chief
+deputy-chief
+deputy head
+former
+head of
+representative
+commission member
+manager
+deputy manager
+deputy-manager
+deputy-head
+head
+corporate officer
+politburo
+politburo secretary
+member of parliament
+leader
+military
+defence
+defense
+minister of state
+mufti
+iman
+maulana
+commissariat
+principal
+maulavi
+dr
+mullah
+captain
+mullah/maulavi
+sheikh
+commandant
+irgc
+shaykh
+shaykh/hajj
+haji
+hajji
+ustadz
+mr
+mrs
+miss
+ms
+mister
+missus
+master
+amir
+sheik
+mufti
+maulana
+commodore
+air marshall
+air vice-marshall
+retired
+superintendent
+chief superintendent
+qari
+professor
+prof.
+police
+engineer
+mawlawi
+alhaj
+eng.
+air commodore
+cadet
+imam
+senior general
+sub-prefect
+sergeant
+qazi
+hadji
+molla
+air marshal
+air marshall
+air vice chief marshal
+air vice chief marshall
+al
+abu
+ben
+el
